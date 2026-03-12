@@ -136,3 +136,7 @@ copy target\mock-service-0.0.1-SNAPSHOT.jar ..\logistics-mock-service.jar
 - **Java 17+** (JDK or JRE)
 - **Port 8080** must be available
 - No other dependencies required
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
